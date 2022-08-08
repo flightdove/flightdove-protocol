@@ -1,4 +1,4 @@
-# Flight Dove (FDOVE) BSC Token SMART CONTRACTS
+# Old | Flight Dove (FDOVE) BSC Token SMART CONTRACTS
 
 
 Flight Dove (FDOVE) is a crypto community with 100% of FAIR LAUNCH DeFi project on BSC ecosystem without any private sale or presale, so every family (our network or general network) have the same chance to get the initial price.
